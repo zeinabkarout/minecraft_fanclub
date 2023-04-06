@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    background-image: url(cover1.jfif);
+    display: flex;
+    align-items: center;
+}
+header h1{
+ margin-left: 25%;
+ align-items: center;
+ text-decoration: overline;
+ color: white;
+ text-transform: uppercase;
+}
+body{
+    background: #95ffdc;
+}
+body h1{
+    color: white;
+    font-weight:bold;
+}
+button{
+    border:none;
+    background: #ea1538;
+    padding: 12px 30px;
+    border-radius: 30px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    transition: .4s;
+    margin: 5px;
+}
+.vidcontainer{
+    margin-left: 25%;
+    
+}
+.vid2{
+    margin-left: 25%;
+}

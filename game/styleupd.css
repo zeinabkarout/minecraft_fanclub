@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    
+}
+    header{
+    background-color:#560505 ;
+    display: flex;
+    justify-content: center;
+    background-image: url(cover1.jfif);
+}
+header h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: overline;
+    color: white;
+}
+
+.TrailsTales:hover{
+    color: #ea1538;
+    cursor: pointer;
+    transition: .3s;
+}
+
+
+.Toolsandweapons:hover{
+    color: #ea1538;
+    cursor: pointer;
+    transition: .3s;
+}
+.Food:hover{
+    color: #ea1538;
+    cursor: pointer;
+    transition: .3s;
+}
+body{
+    background-color:#95ffdc ;
+}
+.video{
+    align-items: center;
+    margin-right: 20%;
+    margin-left: 30%;
+    margin-top: 50px;
+}
